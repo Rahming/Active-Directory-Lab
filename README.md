@@ -17,7 +17,7 @@ Create a active directory envoirnment and integrate Splunk, Slack and Shuffle to
 - Slack
 - Shuffle
 - Draw.io
-
+### MITRE ATT&CK Techniques
 ## Part 1: Diagram
 I used draw.io to make a diagram to logically map out the lab. 
 <img width="2257" height="859" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/049be0ce-a309-4ccc-a52e-498a2bd7112c" />
