@@ -1,4 +1,3 @@
-<img width="1913" height="1171" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/59a08e85-bfe0-4d2f-8b4c-29427c98b560" />
 # Active-Directory-Lab
 
 ## Objective
@@ -49,7 +48,7 @@ There are inbound rules that need to be enabled so the virtual machines can comm
 <img width="1913" height="1171" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/c006d20a-5da3-49f9-8110-72db3026e45d" />
 
 Now I made restrictive firewall rules to practice good security
-
+<img width="1913" height="1171" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/59a08e85-bfe0-4d2f-8b4c-29427c98b560" />
 for windows virtual machines
 <img width="1925" height="1200" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/dc7c0ea3-320f-4381-a562-486e60859852" />
 <img width="1930" height="1206" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/7b78a031-8ba1-49cb-b2b4-f5f6b6ea7d3c" />
