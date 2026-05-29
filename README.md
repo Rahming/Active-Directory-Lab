@@ -43,8 +43,7 @@ going into the virtual machine settings and change to use floppy image file fixe
 <img width="2120" height="1218" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/4b418f8a-45a2-4037-ac28-fe92728a9d7e" />
 
 There are inbound rules that need to be enabled so the virtual machines can communicate 
-<img width="1932" height="1206" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/e7d094d2-fd4c-450f-b7e0-c50846e46abe" />
-<img width="1915" height="1201" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/b6b2fe75-042e-45d6-9da4-83a3c363e680" />
+
 <img width="1924" height="1202" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/eb39c642-c3bd-41be-b908-7ccfcc421879" />
 <img width="1913" height="1171" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/c006d20a-5da3-49f9-8110-72db3026e45d" />
 
