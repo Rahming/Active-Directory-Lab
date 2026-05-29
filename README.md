@@ -1,3 +1,4 @@
+<img width="1913" height="1171" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/59a08e85-bfe0-4d2f-8b4c-29427c98b560" />
 # Active-Directory-Lab
 
 ## Objective
